@@ -1,3 +1,6 @@
+
+<img src="https://github.com/ashu-kudesiya/Gesture_Volume_Control/blob/main/Output/Photo.png" width="222">
+
 # Gesture Volume Control Project
 
 ## Introduction
